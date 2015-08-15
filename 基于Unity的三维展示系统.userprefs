@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Image3DViewer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/img_scan_yue.cs" Line="21" Column="32" />
+      <File FileName="Assets/Scripts/guqin.cs" Line="169" Column="24" />
+      <File FileName="../教程/Unity3D 游戏开发_宣雨松著/源码/9/CodeList_09_01/Assets/Script_09_01.cs" Line="68" Column="8" />
+      <File FileName="Assets/Scripts/CoverFlow.cs" Line="99" Column="39" />
+      <File FileName="Assets/Scripts/Image3DViewer.cs" Line="8" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
